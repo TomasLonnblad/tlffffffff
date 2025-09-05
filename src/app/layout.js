@@ -10,6 +10,7 @@ export const metadata = {
     "Tutorial on Smooth Scrolling In Next.js 14. You can find full video from CodeBucks channel on youtube.",
 };
 
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
